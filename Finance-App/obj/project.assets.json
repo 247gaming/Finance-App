@@ -32936,11 +32936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\langest\\Dev\\Finance-App\\Finance-App\\Finance-App.csproj",
+      "projectUniqueName": "C:\\Users\\langest\\Dev\\Buchhaltung\\Finance-App\\Finance-App\\Finance-App.csproj",
       "projectName": "Finance-App",
-      "projectPath": "C:\\Users\\langest\\Dev\\Finance-App\\Finance-App\\Finance-App.csproj",
+      "projectPath": "C:\\Users\\langest\\Dev\\Buchhaltung\\Finance-App\\Finance-App\\Finance-App.csproj",
       "packagesPath": "C:\\Users\\langest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\langest\\Dev\\Finance-App\\Finance-App\\obj\\",
+      "outputPath": "C:\\Users\\langest\\Dev\\Buchhaltung\\Finance-App\\Finance-App\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
