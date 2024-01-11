@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-01-10T09:58:52.937</Modified>
+      <Modified>2024-01-11T06:52:53.421</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-01-10T09:58:52.785</Modified>
+      <Modified>2024-01-11T06:52:53.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Finance-App.runtimeconfig.json">
       <PackagePath>Finance-App.runtimeconfig.json</PackagePath>
-      <Modified>2024-01-10T09:58:52.453</Modified>
+      <Modified>2024-01-11T06:32:42.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Finance-App.dll">
       <PackagePath>Finance-App.dll</PackagePath>
-      <Modified>2024-01-10T09:58:51.672</Modified>
+      <Modified>2024-01-11T06:52:50.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Finance-App.exe</PackagePath>
-      <Modified>2024-01-10T09:58:51.713</Modified>
+      <Modified>2024-01-11T06:52:50.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -81,26 +81,6 @@
     <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-01-10T09:36:21.456</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-01-10T09:58:50.065</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-01-10T09:58:49.953</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-01-10T09:58:49.913</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-01-10T09:58:49.892</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-01-10T09:58:49.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
@@ -286,9 +266,33 @@
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-01-10T09:58:49.880</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+      <Modified>2024-01-10T09:36:21.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-400.png">
+      <PackagePath>wallet.scale-400.png</PackagePath>
+      <Modified>2024-01-11T06:52:49.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-200.png">
+      <PackagePath>wallet.scale-200.png</PackagePath>
+      <Modified>2024-01-11T06:52:49.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-150.png">
+      <PackagePath>wallet.scale-150.png</PackagePath>
+      <Modified>2024-01-11T06:52:49.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-125.png">
+      <PackagePath>wallet.scale-125.png</PackagePath>
+      <Modified>2024-01-11T06:52:49.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-100.png">
+      <PackagePath>wallet.scale-100.png</PackagePath>
+      <Modified>2024-01-11T06:52:49.084</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Finance-App.deps.json">
       <PackagePath>Finance-App.deps.json</PackagePath>
-      <Modified>2024-01-10T09:58:52.453</Modified>
+      <Modified>2024-01-11T06:52:52.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\langest\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

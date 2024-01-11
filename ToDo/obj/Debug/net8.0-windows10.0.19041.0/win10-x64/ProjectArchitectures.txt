@@ -1,0 +1,1 @@
+C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\ToDo.csproj;x64

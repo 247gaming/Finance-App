@@ -259,7 +259,6 @@ C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\bin\Debug\net8.0-ios\io
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs

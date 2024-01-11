@@ -97,10 +97,6 @@ C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-window
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
-C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
-C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
-C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
-C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
@@ -176,3 +172,8 @@ C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-window
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-400.png
+C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-200.png
+C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-150.png
+C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-125.png
+C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wallet.scale-100.png
