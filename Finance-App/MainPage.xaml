@@ -5,55 +5,103 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
     <ScrollView>
-        <VerticalStackLayout Spacing="10">
-            <Label HorizontalTextAlignment="Center">
-                Test
-            </Label>
+        <VerticalStackLayout Margin="20" Spacing="10">
+
             <Image
-                Aspect="AspectFit"
-                BackgroundColor="{AppThemeBinding Light=Grey,
-                                                  Dark=LightGrey}"
+                Aspect="AspectFill"
+                BackgroundColor="Transparent"
                 HeightRequest="75"
-                Source="wallet.png" />
+                Source="dotnet_bot.png" />
 
-            <Label HorizontalTextAlignment="Center">
-                Test
-            </Label>
-
-            <Rectangle
-                Aspect="Fill"
-                Fill="{AppThemeBinding Light=Black,
-                                       Dark=White}"
-                HeightRequest="10" />
-            <Rectangle
-                Aspect="Fill"
-                Fill="{AppThemeBinding Light=Grey,
-                                       Dark=LightGrey}"
-                HeightRequest="300"
-                RadiusX="15"
-                Stroke="{AppThemeBinding Light=Black,
-                                         Dark=White}"
-                StrokeThickness="2" />
-            <Rectangle
-                Aspect="Fill"
-                Fill="{AppThemeBinding Light=Grey,
-                                       Dark=LightGrey}"
-                HeightRequest="300"
-                RadiusX="15"
-                Stroke="{AppThemeBinding Light=Black,
-                                         Dark=White}"
-                StrokeThickness="2" />
-            <Rectangle
-                Aspect="Fill"
-                Fill="{AppThemeBinding Light=Grey,
-                                       Dark=LightGrey}"
-                HeightRequest="300"
-                RadiusX="15"
-                Stroke="{AppThemeBinding Light=Black,
-                                         Dark=White}"
-                StrokeThickness="2" />
+            <Rectangle Fill="{AppThemeBinding Light=Black, Dark=White}" HeightRequest="10" />
 
 
+            <Frame
+                Padding="10"
+                BackgroundColor="LightGray"
+                BorderColor="Transparent">
+
+                <Grid RowSpacing="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="300" />
+                        <RowDefinition Height="300" />
+                        <RowDefinition Height="300" />
+                        <RowDefinition Height="100" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="50" />
+                    </Grid.ColumnDefinitions>
+
+
+                    <Rectangle
+                        Grid.Row="0"
+                        Grid.ColumnSpan="5"
+                        Fill="{AppThemeBinding Light=Grey,
+                                               Dark=LightGrey}"
+                        RadiusX="15"
+                        RadiusY="15"
+                        Stroke="{AppThemeBinding Light=Black,
+                                                 Dark=White}"
+                        StrokeThickness="2" />
+                    <Image Source="wallet.png" />
+
+
+                    <Rectangle
+                        Grid.Row="1"
+                        Grid.ColumnSpan="5"
+                        Fill="{AppThemeBinding Light=Grey,
+                                               Dark=LightGrey}"
+                        RadiusX="15"
+                        RadiusY="15"
+                        Stroke="{AppThemeBinding Light=Black,
+                                                 Dark=White}"
+                        StrokeThickness="2" />
+
+                    <Rectangle
+                        Grid.Row="2"
+                        Grid.ColumnSpan="5"
+                        Fill="{AppThemeBinding Light=Grey,
+                                               Dark=LightGrey}"
+                        RadiusX="15"
+                        RadiusY="15"
+                        Stroke="{AppThemeBinding Light=Black,
+                                                 Dark=White}"
+                        StrokeThickness="2" />
+
+                    <Image
+                        Grid.Row="3"
+                        Grid.Column="0"
+                        Aspect="AspectFill"
+                        Source="dotnet_bot.png" />
+
+                    <Image
+                        Grid.Row="3"
+                        Grid.Column="1"
+                        Aspect="AspectFill"
+                        Source="bank.jpg" />
+                    <Image
+                        Grid.Row="3"
+                        Grid.Column="2"
+                        Aspect="AspectFill"
+                        Source="menu.png" />
+
+                    <Image
+                        Grid.Row="3"
+                        Grid.Column="3"
+                        Aspect="AspectFill"
+                        Source="sparschwein.png" />
+
+                    <Image
+                        Grid.Row="4"
+                        Grid.Column="4"
+                        Aspect="AspectFill"
+                        Source="umbuchung.png" />
+                </Grid>
+            </Frame>
 
         </VerticalStackLayout>
     </ScrollView>

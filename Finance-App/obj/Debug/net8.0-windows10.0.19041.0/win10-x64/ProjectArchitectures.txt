@@ -1,1 +1,1 @@
-C:\Users\langest\Dev\Buchhaltung\Finance-App\Finance-App\Finance-App.csproj;x64
+C:\Users\langest\Documents\dev\Finance-App\Finance-App\Finance-App.csproj;x64

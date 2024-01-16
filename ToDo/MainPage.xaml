@@ -1,22 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ToDo.MainPage">
+<ContentPage
+    x:Class="ToDo.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
-    <Grid RowDefinitions = "100, Auto, *"
-          ColumnDefinitions=".75*, .25*"
-          Padding="10"
-          RowSpacing="10"
-          ColumnSpacing="10">
+    <Grid
+        Padding="10"
+        ColumnDefinitions=".75*, .25*"
+        ColumnSpacing="10"
+        RowDefinitions="100, Auto, *"
+        RowSpacing="10">
 
-        <Image Grid.ColumnSpan="2"
-               Source="todo.png"
-               BackgroundColor="DarkSlateGrey"/>
-        <Entry Placeholder="Enter Task"
-               Grid.Row="1"/>
-        <Button Text="Add"
-                Grid.Row="1"
-                Grid.Column="1"/>
+        <Image
+            Grid.ColumnSpan="2"
+            BackgroundColor="DarkSlateGrey"
+            Source="todo.png" />
+        <Entry Grid.Row="1" Placeholder="Enter Task" />
+        <Button
+            Grid.Row="1"
+            Grid.Column="1"
+            Text="Add" />
         <CollectionView Grid.Row="2" Grid.ColumnSpan="2">
             <CollectionView.ItemsSource>
                 <x:Array Type="{x:Type x:String}">
@@ -30,16 +33,14 @@
                     <SwipeView>
                         <SwipeView.RightItems>
                             <SwipeItems>
-                                <SwipeItem Text="fertig"
-                                           BackgroundColor="Green"/>
+                                <SwipeItem BackgroundColor="Green" Text="fertig" />
                             </SwipeItems>
-                        </SwipeView.RightItems>                    
-                    <Grid Padding="0,5">
-                        <Frame>
-                            <Label Text="{Binding .}"
-                               FontSize="24"/>
-                        </Frame>
-                    </Grid>
+                        </SwipeView.RightItems>
+                        <Grid Padding="0,5">
+                            <Frame>
+                                <Label FontSize="24" Text="{Binding .}" />
+                            </Frame>
+                        </Grid>
                     </SwipeView>
                 </DataTemplate>
             </CollectionView.ItemTemplate>

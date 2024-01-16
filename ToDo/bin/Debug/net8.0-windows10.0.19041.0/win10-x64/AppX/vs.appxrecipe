@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>VC149697</Machine>
+    <Machine>NB142301</Machine>
     <WindowsUser>langest</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.todo</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\langest\Documents\dev\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\langest\Documents\dev\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>C3E24B656429661D0F6934BD3F115077AC482A2EC1CB9503BF67E5894A83EB93</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.todo_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.todo_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,288 +27,64 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-01-11T07:53:59.969</Modified>
+      <Modified>2024-01-16T09:15:06.875</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-01-11T07:51:59.545</Modified>
+      <Modified>2024-01-16T09:15:06.814</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDo.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDo.runtimeconfig.json">
       <PackagePath>ToDo.runtimeconfig.json</PackagePath>
-      <Modified>2024-01-11T07:23:30.288</Modified>
+      <Modified>2024-01-16T09:15:06.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDo.dll">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDo.dll">
       <PackagePath>ToDo.dll</PackagePath>
-      <Modified>2024-01-11T07:53:59.252</Modified>
+      <Modified>2024-01-16T09:15:06.511</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ToDo.exe</PackagePath>
-      <Modified>2024-01-11T07:53:59.264</Modified>
+      <Modified>2024-01-16T09:15:06.519</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2024-01-11T06:59:36.408</Modified>
+      <Modified>2024-01-16T06:24:19.404</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-01-11T07:00:25.747</Modified>
+      <Modified>2024-01-16T09:14:45.574</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-01-11T07:00:25.778</Modified>
+      <Modified>2024-01-16T09:14:45.604</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-01-11T07:00:25.809</Modified>
+      <Modified>2024-01-16T09:14:45.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-01-11T07:00:25.856</Modified>
+      <Modified>2024-01-16T09:14:45.712</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.043</Modified>
+      <Modified>2024-01-16T09:14:45.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-01-11T06:59:36.394</Modified>
+      <Modified>2024-01-16T06:24:19.404</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-01-11T06:59:36.397</Modified>
+      <Modified>2024-01-16T06:24:19.404</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-01-11T07:00:26.372</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
-      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.536</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.589</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.622</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.676</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
-      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.871</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.739</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.817</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.767</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.781</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.628</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.643</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.722</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.662</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.679</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
-      <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.462</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.477</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.506</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.521</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.540</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.552</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.564</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.615</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.577</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.590</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.122</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.154</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.181</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.212</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.272</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.944</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.964</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.985</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.029</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.085</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.835</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.851</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.880</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.899</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-01-11T07:00:26.929</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.298</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.325</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.357</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.402</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
-      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-01-11T07:00:27.502</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-01-11T07:23:09.279</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-01-11T07:23:09.330</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-01-11T07:23:09.372</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-01-11T07:23:09.472</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-01-11T07:23:09.644</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\todo.scale-100.png">
-      <PackagePath>todo.scale-100.png</PackagePath>
-      <Modified>2024-01-11T07:23:10.253</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\todo.scale-125.png">
-      <PackagePath>todo.scale-125.png</PackagePath>
-      <Modified>2024-01-11T07:23:10.900</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\todo.scale-150.png">
-      <PackagePath>todo.scale-150.png</PackagePath>
-      <Modified>2024-01-11T07:23:11.809</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\todo.scale-200.png">
-      <PackagePath>todo.scale-200.png</PackagePath>
-      <Modified>2024-01-11T07:23:13.122</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\todo.scale-400.png">
-      <PackagePath>todo.scale-400.png</PackagePath>
-      <Modified>2024-01-11T07:23:17.818</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\langest\Dev\Buchhaltung\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDo.deps.json">
+    <AppxPackagedFile Include="C:\Users\langest\Documents\dev\Finance-App\ToDo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDo.deps.json">
       <PackagePath>ToDo.deps.json</PackagePath>
-      <Modified>2024-01-11T07:23:30.076</Modified>
+      <Modified>2024-01-16T09:15:06.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\langest\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
