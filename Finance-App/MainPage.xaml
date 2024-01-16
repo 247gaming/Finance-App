@@ -6,6 +6,7 @@
 
     <ScrollView>
         <VerticalStackLayout Spacing="10">
+<<<<<<< Updated upstream
             <Label FontSize="40" HorizontalTextAlignment="Center">
                 Buchführung
             </Label>
@@ -44,17 +45,36 @@
                 BackgroundColor="Transparent"
                 HeightRequest="75"
                 Source="umbuchung.png" />
+=======
+            <Label HorizontalTextAlignment="Center">
+                Test
+            </Label>
+            <Image
+                Aspect="AspectFit"
+                BackgroundColor="{AppThemeBinding Light=Grey,
+                                                  Dark=LightGrey}"
+                HeightRequest="75"
+                Source="wallet.png" />
+
+            <Label HorizontalTextAlignment="Center">
+                Test
+            </Label>
+>>>>>>> Stashed changes
 
             <Rectangle
                 Aspect="Fill"
                 Fill="{AppThemeBinding Light=Black,
                                        Dark=White}"
+<<<<<<< Updated upstream
                 HeightRequest="5" />
             <Image
                 Aspect="AspectFit"
                 BackgroundColor="Transparent"
                 HeightRequest="75"
                 Source="sparschwein.png" />
+=======
+                HeightRequest="10" />
+>>>>>>> Stashed changes
             <Rectangle
                 Aspect="Fill"
                 Fill="{AppThemeBinding Light=Grey,
